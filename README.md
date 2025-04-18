@@ -21,11 +21,12 @@ https://journals.sagepub.com/doi/10.1177/00219983211052741^
 Andreas Dahl (abda@dtu.dk)
 
 # ToDo
-- Navigate to FiberDetection/ (in order to avoid problems)
-- copy/load zip files: Mock-01_FoV_2_B2_recon_2Dtif.zip, UD-01_FoV_2_B2_recon_2Dtif.zip
+- Navigate to FiberDetection/data
+- copy/load zip files: Mock-01_FoV_2_B2_recon_2Dtif.zip, UD-01_FoV_2_B2_recon_2Dtif.zip into this folder
 - unzip them by running the following command
 ```bash
-python unzip_data.py
+unzip UD-01_FoV_2_B2_recon_2Dtif.zip
+unzip Mock-01_FoV_2_B2_recon_2Dtif.zip
 ```
 - Install packages for merging 2D tiff files (if needed):
 ```bash
