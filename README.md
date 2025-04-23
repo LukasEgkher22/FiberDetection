@@ -21,8 +21,9 @@ https://journals.sagepub.com/doi/10.1177/00219983211052741^
 Andreas Dahl (abda@dtu.dk)
 
 # ToDo
-- Navigate to FiberDetection/data
-- copy/load zip files: Mock-01_FoV_2_B2_recon_2Dtif.zip, UD-01_FoV_2_B2_recon_2Dtif.zip into this folder
+- copy/load the following zip files into the FiberDetection/data folder: (I would like to not have the data in the repo)
+    - Mock-01_FoV_2_B2_recon_2Dtif.zip
+    - UD-01_FoV_2_B2_recon_2Dtif.zip
 - unzip them by running the following command
 ```bash
 unzip UD-01_FoV_2_B2_recon_2Dtif.zip
