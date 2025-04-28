@@ -15,7 +15,7 @@ Segment individual fibers and measure their orientation and curvature.
 
 ## Reference
 Fiber analysis:
-https://journals.sagepub.com/doi/10.1177/00219983211052741^
+https://journals.sagepub.com/doi/10.1177/00219983211052741
 
 ## Contact
 Andreas Dahl (abda@dtu.dk)
