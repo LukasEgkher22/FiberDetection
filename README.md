@@ -34,3 +34,9 @@ unzip Mock-01_FoV_2_B2_recon_2Dtif.zip
 pip install natsort
 ```
 
+
+QUESTIONS:
+* downscaling with factor two dissapoints already
+* curvature is more for UD data - should not be the case
+* presentation length ? and format, theory?
+
